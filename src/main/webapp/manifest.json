@@ -1,0 +1,21 @@
+{
+  "name": "RAKESH KANNAN MART",
+  "short_name": "RK MART",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#FFF8F8",
+  "theme_color": "#B83232",
+  "icons": [
+    {
+      "src": "static/images/rk-mart-logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ],
+  "description": "Shop everyday essentials at Rakesh Kannan Mart."
+}
